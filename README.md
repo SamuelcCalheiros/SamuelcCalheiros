@@ -30,7 +30,7 @@ I am a student of **Systems Analysis and Development (ADS)** and I have a great 
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-4169E1?style=for-the-badge&logo=postgresql)
+![Python]([https://img.shields.io/badge/Python-4169E1?style=for-the-badge&logo=postgresql](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white))
 
 ---
 
