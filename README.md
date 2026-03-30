@@ -30,7 +30,7 @@ I am a student of **Systems Analysis and Development (ADS)** and I have a great 
 
 ## 🛠️ Tech Stack
 
-<img src="https://devicon-website.vercel.app/api/python/original.svg"></img>
+<img src="https://devicon-website.vercel.app/api/python/original.svg" style="width: 5%; height: auto;" alt="Descrição"></img>
 
 ---
 
